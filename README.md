@@ -43,6 +43,18 @@ To analyze and optimize sales performance by identifying trends, top-performing 
 - **Interactive Visuals**: Insights are easily accessible through interactive Streamlit dashboards.
 - **Custom Insights**: Enhanced the project scope with self-defined analytical queries.
 
+## Tools Used
+- **PostgreSQL**: For managing the database and running SQL queries.
+- **Streamlit**: For creating interactive data visualizations and dashboards.
+- **GitHub**: For publishing and sharing the project files.
+
+## Packages Used
+- **Pandas**: For data cleaning and transformations.
+- **SQLAlchemy**: For connecting to PostgreSQL and executing queries.
+- **Matplotlib**: For creating visualizations in Python (if used).
+- **Plotly**: For interactive plots (if used in Streamlit).
+- **Streamlit**: For building the dashboard and presenting the results.
+
 ## Short Presentation Summary
 
 ### Introduction
