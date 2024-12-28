@@ -8,7 +8,7 @@
 
 import pandas as pd
 import streamlit as st
-from sqlalchemy import create_engine
+
 
 st.title('Retail Order Data Analysis')
 st.button("Regenerate")
