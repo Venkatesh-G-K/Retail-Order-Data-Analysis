@@ -5,7 +5,7 @@
 # %%
 #!kaggle datasets download ankitbansal06/retail-orders -f orders.csv
 # %% ----- Importing needed---
-
+%pip install sqlalchemy
 import pandas as pd
 import streamlit as st
 from sqlalchemy import create_engine
