@@ -95,7 +95,7 @@ product
 #from psycopg2.extensions import ISOLATION_LEVEL_AUTOCOMMIT
 
 # %%
-from sqlalchemy import create_engine
+
 
 # Connection details
 user = "postgres"
