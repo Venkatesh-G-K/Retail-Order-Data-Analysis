@@ -1,7 +1,7 @@
 # %%
 ##  Retail Order Data Analysis
 #Getting Data from kaggle
-
+pip install sqlalchemy
 # %%
 #!kaggle datasets download ankitbansal06/retail-orders -f orders.csv
 # %% ----- Importing needed---
